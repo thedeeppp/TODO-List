@@ -1,2 +1,3 @@
 # TODO-List
-This is a simple yet full fetched TODO list using Next.Js and MERN Stack.
+This is a simple yet fully-featured TODO list using Next.js and the MERN Stack.
+
